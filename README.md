@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**gsantacroce96/gsantacroce96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend software engineer with a background in industrial systems.
 
-Here are some ideas to get you started:
+I focus on:
+- Backend development with C#/.NET
+- Distributed and event-driven systems
+- Designing reliable and scalable architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Distributed Warehouse Backend (event-driven system)
+
+📫 LinkedIn: https://www.linkedin.com/in/giovanni-santacroce-2512b420a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
